@@ -324,15 +324,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "C380564A6414222F6A7E5F57D0F14982D5FD4F14",
+			"ShaderMapHash": "F66FC83168E3609D05D512B3BC2E29DE9767506D",
 			"Assets": [
-				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+				"/Game/StarterContent/Materials/M_Basic_Floor"
 			]
 		},
 		{
-			"ShaderMapHash": "CBE1B9A36802EF5FE309B1F94BBC5001044B3DF3",
+			"ShaderMapHash": "C380564A6414222F6A7E5F57D0F14982D5FD4F14",
 			"Assets": [
-				"/Game/StarterContent/Materials/M_AssetPlatform"
+				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
 			]
 		},
 		{
@@ -385,6 +385,18 @@
 			]
 		},
 		{
+			"ShaderMapHash": "CBE1B9A36802EF5FE309B1F94BBC5001044B3DF3",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_AssetPlatform"
+			]
+		},
+		{
+			"ShaderMapHash": "AA946A576EF5B09A1D952258BD3FD81111185049",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Oak"
+			]
+		},
+		{
 			"ShaderMapHash": "B891171D5EDC137B3DB51454BF774F16CDE3DE40",
 			"Assets": [
 				"/Engine/MapTemplates/Materials/BasicAsset03"
@@ -397,9 +409,92 @@
 			]
 		},
 		{
+			"ShaderMapHash": "8D5C9971654E22D92212E61C55D92EEA6D6F673A",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "1D9BD28C163CA5A3BA3822C56D870D70FC37D8BA",
 			"Assets": [
 				"/Engine/MapTemplates/Materials/BasicAsset01"
+			]
+		},
+		{
+			"ShaderMapHash": "0F20AF6C258E169B62B07A594ECAF67F1AD0E4D1",
+			"Assets": [
+				"/Game/DarkMemoireProject/Assets/Heir/maria_M1",
+				"/Game/DarkMemoireProject/Assets/Detective/SpacePirate_M"
+			]
+		},
+		{
+			"ShaderMapHash": "DA5D093556F7ECC4E60363C4C4C2DC3DAFA848CA",
+			"Assets": [
+				"/Engine/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody"
+			]
+		},
+		{
+			"ShaderMapHash": "AF630D10EC29E174CC6981011633B94F1A86668B",
+			"Assets": [
+				"/Game/DarkMemoireProject/Resources/Images/Background/dark_bg_04_material"
+			]
+		},
+		{
+			"ShaderMapHash": "FD5DDE2C5B0FB8F719EF38D5EDACDFE6253A5880",
+			"Assets": [
+				"/Game/DarkMemoireProject/Materials/CircleMask"
+			]
+		},
+		{
+			"ShaderMapHash": "8FD4AB7FDC0BC3C837929677393195B7422CE32B",
+			"Assets": [
+				"/Game/DarkMemoireProject/Assets/XBot/Beta_Joints_MAT",
+				"/Game/DarkMemoireProject/Assets/XBot/Beta_HighLimbsGeoSG2",
+				"/Game/DarkMemoireProject/Assets/YBot/Alpha_Joints_MAT",
+				"/Game/DarkMemoireProject/Assets/YBot/Alpha_Body_MAT"
+			]
+		},
+		{
+			"ShaderMapHash": "E8CFA8E8C2FB0C242F2A84E87CB4BEBDD0CC8502",
+			"Assets": [
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/M_Props_Opaque",
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/MI_KitchenFurniture"
+			]
+		},
+		{
+			"ShaderMapHash": "E6D302C79F9EA5A8358AD201E63C269E0050C7EF",
+			"Assets": [
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/MI_Interior",
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/MI_Piano_Walnut",
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/MI_Furniture_Row",
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/MI_Couch",
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/MI_Cabinet_Corner"
+			]
+		},
+		{
+			"ShaderMapHash": "FA17C84FC8AC86B4C030E24D45C17C54E3191860",
+			"Assets": [
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/Common/MasterMaterial/Master_Props_Mat",
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/Shared/GenericPropsInterior/PictureFrame/PictureFrameWood_a_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "6BE56528D33E835D1B66F0FAF518C7E929768FFB",
+			"Assets": [
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/Common/Materials/Metal/Brass_a_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "3002279011C96107634F63A664FF1B8908A092CF",
+			"Assets": [
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/M_Tiling",
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/MI_ConcreteFloor"
+			]
+		},
+		{
+			"ShaderMapHash": "9FB9B2B706662F5F450C7AFF551C74385B3199D8",
+			"Assets": [
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/MI_Floor_Tiles_02"
 			]
 		},
 		{
@@ -415,9 +510,102 @@
 			]
 		},
 		{
+			"ShaderMapHash": "DA023BC987C5CFBCA824BE3848EC6D4E9946854B",
+			"Assets": [
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/FreeFurniturePack/Materials/M_Classic_Commode"
+			]
+		},
+		{
+			"ShaderMapHash": "69C4A48BC5B2F71E54E03597BABBC7635C775A65",
+			"Assets": [
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/FreeFurniturePack/Materials/M_Classic_Cupboard"
+			]
+		},
+		{
 			"ShaderMapHash": "4824F604A30BC5219EF292894E6D5B0B1C2A7380",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Wood_Walnut"
+			]
+		},
+		{
+			"ShaderMapHash": "95BFE8C605AB7EF9E25A86E00D67273E9CB2C59F",
+			"Assets": [
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Master_mat"
+			]
+		},
+		{
+			"ShaderMapHash": "15FCD532223A698A88B53AB042C60DB46C64B008",
+			"Assets": [
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/Materials/Stove_a_Mat",
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/Materials/StoveHood_a_Mat",
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/Materials/GrandfatherClock_a_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "5F2485B89C09065C72AD08F63A82154D02D14A71",
+			"Assets": [
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/FreeFurniturePack/Materials/M_TV"
+			]
+		},
+		{
+			"ShaderMapHash": "4C0E7ADB4F45B0CC0A48AA320DD8903251AEC723",
+			"Assets": [
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/M_Rugs"
+			]
+		},
+		{
+			"ShaderMapHash": "3FF0B2882958B9635616CB8A3BA9162A1C63CA39",
+			"Assets": [
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/M_Rugs"
+			]
+		},
+		{
+			"ShaderMapHash": "239731172194B4E4A6DA492ADDABD20A5251F64B",
+			"Assets": [
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/MI_Rug_01"
+			]
+		},
+		{
+			"ShaderMapHash": "9D216D0E5512F0D69EF7A268FF5B673B801C0942",
+			"Assets": [
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/MI_Rug_01"
+			]
+		},
+		{
+			"ShaderMapHash": "A4BC21BDB19D9A2A7ACA48D6578362C6FF2248BE",
+			"Assets": [
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/FreeFurniturePack/Materials/M_Picture_frame"
+			]
+		},
+		{
+			"ShaderMapHash": "3FD4D87C9A0D30B4D608CF3127D9E74B3C08A9EB",
+			"Assets": [
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/FreeFurniturePack/Materials/M_Picture"
+			]
+		},
+		{
+			"ShaderMapHash": "3BE9BC415CB1F22B4FB6CF740D697BA3FE6E3430",
+			"Assets": [
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/FreeFurniturePack/Materials/M_Modern_Bed_2"
+			]
+		},
+		{
+			"ShaderMapHash": "96015417234E965A10826922E9AC87B90153FE6C",
+			"Assets": [
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/MI_Lamp_Bathroom",
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/MI_Gasheater"
+			]
+		},
+		{
+			"ShaderMapHash": "C2D6E82A2762FFCE2964BC98072C226A341DDDCD",
+			"Assets": [
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/M_Props_AlphaMasked"
+			]
+		},
+		{
+			"ShaderMapHash": "02966EAEC331A240BC167F0F1410883EB85B0B69",
+			"Assets": [
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/M_Glass_02"
 			]
 		},
 		{
@@ -427,15 +615,180 @@
 			]
 		},
 		{
-			"ShaderMapHash": "4098AA338AFA5ED1E5C080E07ECBB65B5576EC27",
+			"ShaderMapHash": "66769ECC50B1B049DFC3AD14ADFB2D1047E828C4",
 			"Assets": [
-				"/Game/StarterContent/Props/Materials/M_Shelf"
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/FreeFurniturePack/Materials/M_Commode",
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/FreeFurniturePack/Materials/M_Modern_Cupboard"
 			]
 		},
 		{
-			"ShaderMapHash": "E6D302C79F9EA5A8358AD201E63C269E0050C7EF",
+			"ShaderMapHash": "CF71F6CF0823B1740065D4896E76E348B1196509",
 			"Assets": [
-				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/MI_Interior"
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/FreeFurniturePack/Materials/M_Chrome"
+			]
+		},
+		{
+			"ShaderMapHash": "FB0D530FF287A5EBB8039A54E838E5E240FC0251",
+			"Assets": [
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/M_Classic_Leather_armchair"
+			]
+		},
+		{
+			"ShaderMapHash": "AE16F9A1A9580CE5423C645867AB1685EA9B2657",
+			"Assets": [
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/M_Glass_01"
+			]
+		},
+		{
+			"ShaderMapHash": "7919049C70AA5FAFC80F652EDE9E4C09869C206E",
+			"Assets": [
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/FreeFurniturePack/Materials/MM_Tables_and_Chairs"
+			]
+		},
+		{
+			"ShaderMapHash": "6F399FF2C4CC5B001FEA19F670A33E1D378D4502",
+			"Assets": [
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/FreeFurniturePack/Materials/M_Metall"
+			]
+		},
+		{
+			"ShaderMapHash": "855FCFA29E30F94A972D931647522F28A4E66D22",
+			"Assets": [
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/FreeFurniturePack/Materials/M_Bed_Lamp_Glowing_Part"
+			]
+		},
+		{
+			"ShaderMapHash": "18C4A32467CC70A924D055A4C6D0167E7BB7E854",
+			"Assets": [
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/FreeFurniturePack/Materials/M_Bed_Lamp_3"
+			]
+		},
+		{
+			"ShaderMapHash": "ADDF5B7C67550C527508A80E0EEDD7432F3D1AD6",
+			"Assets": [
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/FreeFurniturePack/Materials/M_Bathtub"
+			]
+		},
+		{
+			"ShaderMapHash": "6A9A286FDB58F1F49566AF1CB2053E3D27A448DD",
+			"Assets": [
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/Common/MasterMaterial/Master_WorldMaterial_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "875D9628D1735672B99B68483AEF6BEADB8F7281",
+			"Assets": [
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/Common/Materials/Plastic/WM_Plastic_Cream_a_Mat",
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/Common/Materials/Ceramic/WM_Ceramic_d_Mat",
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/Common/Materials/Metal/WM_MetalBasic_a_mat",
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/Common/Materials/Plaster/WM_PlasterWall_a_mat"
+			]
+		},
+		{
+			"ShaderMapHash": "4C945F914C8309195FACA7D6A78B0F4ABC04E485",
+			"Assets": [
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/Common/MasterMaterial/Master_Metal_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "38CD1CCCC76170AF1170CC95308F76C989665395",
+			"Assets": [
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/Shared/TheresaRoom/WritingDeskKnob_a_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "D22E7942DBE3786EE5C21EFBAC1FC523A95523D2",
+			"Assets": [
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/Common/MasterMaterial/Master_Props_Masked_Mat",
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/Shared/TheresaRoom/Lamp/Lamp_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "231F3437CC2E5C55A43C573F3574951B460110A1",
+			"Assets": [
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/Shared/GenericPropsInterior/Book/Bookstacks/NotebookRings_a_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "0D594DF2008612ACE4299DF9A3710371054C8120",
+			"Assets": [
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/Common/MasterMaterial/Master_Glass_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "5ED408F565C66B60A0D81F9A541A3965256ACB45",
+			"Assets": [
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/Shared/TheresaRoom/Window/WindowFrameGlass_a_mat",
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/Materials/LivingRoomWindow_c_mat",
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/Materials/LivingRoomWindow_b_mat",
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/Materials/LivingRoomWindow_a_mat"
+			]
+		},
+		{
+			"ShaderMapHash": "3536604E0C86AD97F1445377CBA5222E0BD519F5",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Rock_Sandstone"
+			]
+		},
+		{
+			"ShaderMapHash": "1C5341AA65E618F58BACDDD914ED88400BF3C356",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Rock_Marble_Polished"
+			]
+		},
+		{
+			"ShaderMapHash": "A2025954E434F2577A0089394CF69554C92D2A74",
+			"Assets": [
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/FreeFurniturePack/Materials/MM_Modern_Sofa"
+			]
+		},
+		{
+			"ShaderMapHash": "536AF3013EF2714A886D0069410113C1B5C301E4",
+			"Assets": [
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/FreeFurniturePack/Materials/M_Office_Chair"
+			]
+		},
+		{
+			"ShaderMapHash": "AC67CF50858B655FC67E527590ACC185893411C4",
+			"Assets": [
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/KitchenTopCounter"
+			]
+		},
+		{
+			"ShaderMapHash": "A33DC55D4D52500F7CE0CECD0541C45EAA463B31",
+			"Assets": [
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/FreeFurniturePack/Materials/M_Coffee_Table"
+			]
+		},
+		{
+			"ShaderMapHash": "B5536DB160E682915883E8C4A7026C149FADDEE6",
+			"Assets": [
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/FreeFurniturePack/Materials/M_Classic_Picture"
+			]
+		},
+		{
+			"ShaderMapHash": "4C6224D22F50E58E9D337B06A038EB137039CFA6",
+			"Assets": [
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/FreeFurniturePack/Materials/M_Art_2"
+			]
+		},
+		{
+			"ShaderMapHash": "7AE646808A5F9A287B0D108F51F5D8D41BF44434",
+			"Assets": [
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/FreeFurniturePack/Materials/M_Bed_drawer_plastic"
+			]
+		},
+		{
+			"ShaderMapHash": "CFD53CC2234314F3010AC3628A3746A86C4ADE16",
+			"Assets": [
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/FreeFurniturePack/Materials/M_Bed_drawer_metall",
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/FreeFurniturePack/Materials/M_Cupboard_Metall"
+			]
+		},
+		{
+			"ShaderMapHash": "4098AA338AFA5ED1E5C080E07ECBB65B5576EC27",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Shelf"
 			]
 		},
 		{
@@ -532,18 +885,6 @@
 			"ShaderMapHash": "C18B0705EDD0E0EC7867E99442036D241A1B5054",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Tech_Checker_Dot"
-			]
-		},
-		{
-			"ShaderMapHash": "3536604E0C86AD97F1445377CBA5222E0BD519F5",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Rock_Sandstone"
-			]
-		},
-		{
-			"ShaderMapHash": "1C5341AA65E618F58BACDDD914ED88400BF3C356",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Rock_Marble_Polished"
 			]
 		},
 		{
@@ -673,84 +1014,17 @@
 			]
 		},
 		{
-			"ShaderMapHash": "8FD4AB7FDC0BC3C837929677393195B7422CE32B",
+			"ShaderMapHash": "23510FF01ECE9E554A8E9FA67C2579ED2A62C115",
 			"Assets": [
-				"/Game/DarkMemoireProject/Assets/YBot/Alpha_Body_MAT",
-				"/Game/DarkMemoireProject/Assets/YBot/Alpha_Joints_MAT",
-				"/Game/DarkMemoireProject/Assets/XBot/Beta_HighLimbsGeoSG2",
-				"/Game/DarkMemoireProject/Assets/XBot/Beta_Joints_MAT"
+				"/Game/DarkMemoireProject/Materials/TransparentMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "9479692AACDE8B52FEF70A05C1BD20C70C982433",
+			"ShaderMapHash": "7794CA0FF3FD6BFF377A8B77D050CDE5A5F45314",
 			"Assets": [
-				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Grey"
-			]
-		},
-		{
-			"ShaderMapHash": "417F740AC67ED38D082CCAE80C9172C7565B3549",
-			"Assets": [
-				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/SkyScroll_MasterMat"
-			]
-		},
-		{
-			"ShaderMapHash": "4C6224D22F50E58E9D337B06A038EB137039CFA6",
-			"Assets": [
-				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/FreeFurniturePack/Materials/M_Art_2"
-			]
-		},
-		{
-			"ShaderMapHash": "B5536DB160E682915883E8C4A7026C149FADDEE6",
-			"Assets": [
-				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/FreeFurniturePack/Materials/M_Classic_Picture"
-			]
-		},
-		{
-			"ShaderMapHash": "A33DC55D4D52500F7CE0CECD0541C45EAA463B31",
-			"Assets": [
-				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/FreeFurniturePack/Materials/M_Coffee_Table"
-			]
-		},
-		{
-			"ShaderMapHash": "AC67CF50858B655FC67E527590ACC185893411C4",
-			"Assets": [
-				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/KitchenTopCounter"
-			]
-		},
-		{
-			"ShaderMapHash": "9521342179CC65C8EA4FC9DDAF7B64E44B2FF878",
-			"Assets": [
-				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/Common/Materials/Glass/TestGlass/Materials/Free/Glass/M_Glass_Master"
-			]
-		},
-		{
-			"ShaderMapHash": "55A05D73B8BD58DB697884C837708DF600B0E2E1",
-			"Assets": [
-				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/FreeFurniturePack/Materials/M_Military_Bed"
-			]
-		},
-		{
-			"ShaderMapHash": "536AF3013EF2714A886D0069410113C1B5C301E4",
-			"Assets": [
-				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/FreeFurniturePack/Materials/M_Office_Chair"
-			]
-		},
-		{
-			"ShaderMapHash": "A2025954E434F2577A0089394CF69554C92D2A74",
-			"Assets": [
-				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/FreeFurniturePack/Materials/MM_Modern_Sofa"
-			]
-		},
-		{
-			"ShaderMapHash": "FCD6BA96FCD3120DA98D3BFE73DA3E86EADD7D40",
-			"Assets": [
-				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/FreeFurniturePack/Materials/M_Modern_Table_bottom"
-			]
-		},
-		{
-			"ShaderMapHash": "76CFCC77D3B60EFC9BF65511DDABCDD6312A0A27",
-			"Assets": [
-				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/FreeFurniturePack/Materials/M_Modern_Table_top"
+				"/Game/DarkMemoireProject/Assets/Maynard/Maynard_Body1",
+				"/Game/DarkMemoireProject/Assets/Maynard/Maynard_Body",
+				"/Game/DarkMemoireProject/Assets/Mannequin/Mannequin_Body"
 			]
 		},
 		{
@@ -760,10 +1034,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "CFD53CC2234314F3010AC3628A3746A86C4ADE16",
+			"ShaderMapHash": "76CFCC77D3B60EFC9BF65511DDABCDD6312A0A27",
 			"Assets": [
-				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/FreeFurniturePack/Materials/M_Bed_drawer_metall",
-				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/FreeFurniturePack/Materials/M_Cupboard_Metall"
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/FreeFurniturePack/Materials/M_Modern_Table_top"
+			]
+		},
+		{
+			"ShaderMapHash": "FCD6BA96FCD3120DA98D3BFE73DA3E86EADD7D40",
+			"Assets": [
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/FreeFurniturePack/Materials/M_Modern_Table_bottom"
 			]
 		},
 		{
@@ -773,293 +1052,33 @@
 			]
 		},
 		{
-			"ShaderMapHash": "66769ECC50B1B049DFC3AD14ADFB2D1047E828C4",
-			"Assets": [
-				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/FreeFurniturePack/Materials/M_Modern_Cupboard",
-				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/FreeFurniturePack/Materials/M_Commode"
-			]
-		},
-		{
-			"ShaderMapHash": "7AE646808A5F9A287B0D108F51F5D8D41BF44434",
-			"Assets": [
-				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/FreeFurniturePack/Materials/M_Bed_drawer_plastic"
-			]
-		},
-		{
 			"ShaderMapHash": "711A4DDDA79DE650EAB35FC0648E282F54E3181E",
 			"Assets": [
 				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/FreeFurniturePack/Materials/M_Military_Bed_Grid"
 			]
 		},
 		{
-			"ShaderMapHash": "7794CA0FF3FD6BFF377A8B77D050CDE5A5F45314",
+			"ShaderMapHash": "55A05D73B8BD58DB697884C837708DF600B0E2E1",
 			"Assets": [
-				"/Game/DarkMemoireProject/Assets/Mannequin/Mannequin_Body",
-				"/Game/DarkMemoireProject/Assets/Maynard/Maynard_Body",
-				"/Game/DarkMemoireProject/Assets/Maynard/Maynard_Body1"
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/FreeFurniturePack/Materials/M_Military_Bed"
 			]
 		},
 		{
-			"ShaderMapHash": "23510FF01ECE9E554A8E9FA67C2579ED2A62C115",
+			"ShaderMapHash": "9521342179CC65C8EA4FC9DDAF7B64E44B2FF878",
 			"Assets": [
-				"/Game/DarkMemoireProject/Materials/TransparentMaterial"
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/Common/Materials/Glass/TestGlass/Materials/Free/Glass/M_Glass_Master"
 			]
 		},
 		{
-			"ShaderMapHash": "18C4A32467CC70A924D055A4C6D0167E7BB7E854",
+			"ShaderMapHash": "417F740AC67ED38D082CCAE80C9172C7565B3549",
 			"Assets": [
-				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/FreeFurniturePack/Materials/M_Bed_Lamp_3"
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/SkyScroll_MasterMat"
 			]
 		},
 		{
-			"ShaderMapHash": "855FCFA29E30F94A972D931647522F28A4E66D22",
+			"ShaderMapHash": "9479692AACDE8B52FEF70A05C1BD20C70C982433",
 			"Assets": [
-				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/FreeFurniturePack/Materials/M_Bed_Lamp_Glowing_Part"
-			]
-		},
-		{
-			"ShaderMapHash": "6F399FF2C4CC5B001FEA19F670A33E1D378D4502",
-			"Assets": [
-				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/FreeFurniturePack/Materials/M_Metall"
-			]
-		},
-		{
-			"ShaderMapHash": "CF71F6CF0823B1740065D4896E76E348B1196509",
-			"Assets": [
-				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/FreeFurniturePack/Materials/M_Chrome"
-			]
-		},
-		{
-			"ShaderMapHash": "FB0D530FF287A5EBB8039A54E838E5E240FC0251",
-			"Assets": [
-				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/M_Classic_Leather_armchair"
-			]
-		},
-		{
-			"ShaderMapHash": "3BE9BC415CB1F22B4FB6CF740D697BA3FE6E3430",
-			"Assets": [
-				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/FreeFurniturePack/Materials/M_Modern_Bed_2"
-			]
-		},
-		{
-			"ShaderMapHash": "3FD4D87C9A0D30B4D608CF3127D9E74B3C08A9EB",
-			"Assets": [
-				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/FreeFurniturePack/Materials/M_Picture"
-			]
-		},
-		{
-			"ShaderMapHash": "A4BC21BDB19D9A2A7ACA48D6578362C6FF2248BE",
-			"Assets": [
-				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/FreeFurniturePack/Materials/M_Picture_frame"
-			]
-		},
-		{
-			"ShaderMapHash": "7919049C70AA5FAFC80F652EDE9E4C09869C206E",
-			"Assets": [
-				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/FreeFurniturePack/Materials/MM_Tables_and_Chairs"
-			]
-		},
-		{
-			"ShaderMapHash": "4C0E7ADB4F45B0CC0A48AA320DD8903251AEC723",
-			"Assets": [
-				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/M_Rugs"
-			]
-		},
-		{
-			"ShaderMapHash": "3FF0B2882958B9635616CB8A3BA9162A1C63CA39",
-			"Assets": [
-				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/M_Rugs"
-			]
-		},
-		{
-			"ShaderMapHash": "69C4A48BC5B2F71E54E03597BABBC7635C775A65",
-			"Assets": [
-				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/FreeFurniturePack/Materials/M_Classic_Cupboard"
-			]
-		},
-		{
-			"ShaderMapHash": "5F2485B89C09065C72AD08F63A82154D02D14A71",
-			"Assets": [
-				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/FreeFurniturePack/Materials/M_TV"
-			]
-		},
-		{
-			"ShaderMapHash": "DA023BC987C5CFBCA824BE3848EC6D4E9946854B",
-			"Assets": [
-				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/FreeFurniturePack/Materials/M_Classic_Commode"
-			]
-		},
-		{
-			"ShaderMapHash": "C2D6E82A2762FFCE2964BC98072C226A341DDDCD",
-			"Assets": [
-				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/M_Props_AlphaMasked"
-			]
-		},
-		{
-			"ShaderMapHash": "AE16F9A1A9580CE5423C645867AB1685EA9B2657",
-			"Assets": [
-				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/M_Glass_01"
-			]
-		},
-		{
-			"ShaderMapHash": "02966EAEC331A240BC167F0F1410883EB85B0B69",
-			"Assets": [
-				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/M_Glass_02"
-			]
-		},
-		{
-			"ShaderMapHash": "95BFE8C605AB7EF9E25A86E00D67273E9CB2C59F",
-			"Assets": [
-				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Master_mat"
-			]
-		},
-		{
-			"ShaderMapHash": "D22E7942DBE3786EE5C21EFBAC1FC523A95523D2",
-			"Assets": [
-				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/Shared/TheresaRoom/Lamp/Lamp_Mat",
-				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/Common/MasterMaterial/Master_Props_Masked_Mat"
-			]
-		},
-		{
-			"ShaderMapHash": "4C945F914C8309195FACA7D6A78B0F4ABC04E485",
-			"Assets": [
-				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/Common/MasterMaterial/Master_Metal_Mat"
-			]
-		},
-		{
-			"ShaderMapHash": "0D594DF2008612ACE4299DF9A3710371054C8120",
-			"Assets": [
-				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/Common/MasterMaterial/Master_Glass_Mat"
-			]
-		},
-		{
-			"ShaderMapHash": "6A9A286FDB58F1F49566AF1CB2053E3D27A448DD",
-			"Assets": [
-				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/Common/MasterMaterial/Master_WorldMaterial_Mat"
-			]
-		},
-		{
-			"ShaderMapHash": "0F20AF6C258E169B62B07A594ECAF67F1AD0E4D1",
-			"Assets": [
-				"/Game/DarkMemoireProject/Assets/Heir/maria_M1",
-				"/Game/DarkMemoireProject/Assets/Detective/SpacePirate_M"
-			]
-		},
-		{
-			"ShaderMapHash": "ADDF5B7C67550C527508A80E0EEDD7432F3D1AD6",
-			"Assets": [
-				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/FreeFurniturePack/Materials/M_Bathtub"
-			]
-		},
-		{
-			"ShaderMapHash": "AA946A576EF5B09A1D952258BD3FD81111185049",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Wood_Oak"
-			]
-		},
-		{
-			"ShaderMapHash": "FD5DDE2C5B0FB8F719EF38D5EDACDFE6253A5880",
-			"Assets": [
-				"/Game/DarkMemoireProject/Materials/CircleMask"
-			]
-		},
-		{
-			"ShaderMapHash": "AF630D10EC29E174CC6981011633B94F1A86668B",
-			"Assets": [
-				"/Game/DarkMemoireProject/Resources/Images/Background/dark_bg_04_material"
-			]
-		},
-		{
-			"ShaderMapHash": "8D5C9971654E22D92212E61C55D92EEA6D6F673A",
-			"Assets": [
-				"/Engine/BasicShapes/BasicShapeMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "F66FC83168E3609D05D512B3BC2E29DE9767506D",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Basic_Floor"
-			]
-		},
-		{
-			"ShaderMapHash": "9FB9B2B706662F5F450C7AFF551C74385B3199D8",
-			"Assets": [
-				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/MI_Floor_Tiles_02"
-			]
-		},
-		{
-			"ShaderMapHash": "96015417234E965A10826922E9AC87B90153FE6C",
-			"Assets": [
-				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/MI_Lamp_Bathroom"
-			]
-		},
-		{
-			"ShaderMapHash": "239731172194B4E4A6DA492ADDABD20A5251F64B",
-			"Assets": [
-				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/MI_Rug_01"
-			]
-		},
-		{
-			"ShaderMapHash": "9D216D0E5512F0D69EF7A268FF5B673B801C0942",
-			"Assets": [
-				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/MI_Rug_01"
-			]
-		},
-		{
-			"ShaderMapHash": "231F3437CC2E5C55A43C573F3574951B460110A1",
-			"Assets": [
-				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/Shared/GenericPropsInterior/Book/Bookstacks/NotebookRings_a_Mat"
-			]
-		},
-		{
-			"ShaderMapHash": "15FCD532223A698A88B53AB042C60DB46C64B008",
-			"Assets": [
-				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/Materials/GrandfatherClock_a_Mat"
-			]
-		},
-		{
-			"ShaderMapHash": "E8CFA8E8C2FB0C242F2A84E87CB4BEBDD0CC8502",
-			"Assets": [
-				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/M_Props_Opaque",
-				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/MI_KitchenFurniture"
-			]
-		},
-		{
-			"ShaderMapHash": "38CD1CCCC76170AF1170CC95308F76C989665395",
-			"Assets": [
-				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/Shared/TheresaRoom/WritingDeskKnob_a_Mat"
-			]
-		},
-		{
-			"ShaderMapHash": "5ED408F565C66B60A0D81F9A541A3965256ACB45",
-			"Assets": [
-				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/Shared/TheresaRoom/Window/WindowFrameGlass_a_mat"
-			]
-		},
-		{
-			"ShaderMapHash": "FA17C84FC8AC86B4C030E24D45C17C54E3191860",
-			"Assets": [
-				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/Shared/GenericPropsInterior/PictureFrame/PictureFrameWood_a_Mat",
-				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/Common/MasterMaterial/Master_Props_Mat"
-			]
-		},
-		{
-			"ShaderMapHash": "875D9628D1735672B99B68483AEF6BEADB8F7281",
-			"Assets": [
-				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/Common/Materials/Plastic/WM_Plastic_Cream_a_Mat"
-			]
-		},
-		{
-			"ShaderMapHash": "3002279011C96107634F63A664FF1B8908A092CF",
-			"Assets": [
-				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/M_Tiling",
-				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/MI_ConcreteFloor"
-			]
-		},
-		{
-			"ShaderMapHash": "6BE56528D33E835D1B66F0FAF518C7E929768FFB",
-			"Assets": [
-				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Assets/Common/Materials/Metal/Brass_a_Mat"
+				"/Game/DarkMemoireProject/Assets/ALL_ASSETS/MATERIALS_TEXTURES/Grey"
 			]
 		}
 	]
